@@ -1,4 +1,6 @@
 RENCANA KEDEPAN RIZAL
 -Modif motor
+  *Ganti piston
+  *Ganti cam
 -Ganti smartphone
 -Membuka usaha
