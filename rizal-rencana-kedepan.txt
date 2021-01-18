@@ -3,6 +3,7 @@ RENCANA KEDEPAN RIZAL
   *Ganti piston
   *Ganti cam
    -custom cam
+   -Bearing faito
 -Ganti smartphone
    -iphone
 -Mendapatkan nilai yang terbaik
